@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm JunHwan</h1>
 
-<!--
-**Jvvhw/Jvvhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Interests
+- **Power Electronics**
+  - DC-DC converter, SMPS, Inverter, Power Sharing
+- **Control Engineering**
+  - S/W-based controlled system simulation 
+- **Motor Control**
+  - High-Performance motor drive system, EV, open-end winding
+- **Deep Learning**
+  - Artificial neural network 
 
-Here are some ideas to get you started:
-
+## 💬 About
 - 🔭 I’m currently working on ...
+
+AI model for simulating non-linear motor drive system  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+Deep-Learning 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Happy to take any kind of Feedback
+
+## 💬 Comment
+Major-related content may not be translated
+
+## 📫 Contacts
+- email: joey413@naver.com 
+
